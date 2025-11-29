@@ -35,13 +35,14 @@
             "id": "e6b7bec39035ce70",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名 1.base",
-                "viewName": "表格"
+                "file": "CS267.3.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-table",
-              "title": "未命名 1"
+              "icon": "lucide-file",
+              "title": "CS267.3"
             }
           },
           {
@@ -73,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -235,10 +236,11 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "e6b7bec39035ce70",
+  "active": "c4c3f95f7257bfa8",
   "lastOpenFiles": [
-    "CS267.3.md",
     "未命名 1.base",
+    "MarkDownLearning.md",
+    "CS267.3.md",
     "深入了解计算机系统.md",
     "未命名.base",
     "高速缓存存储器.png",
